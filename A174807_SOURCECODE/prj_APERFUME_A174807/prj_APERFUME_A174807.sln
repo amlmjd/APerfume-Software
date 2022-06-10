@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_APERFUME_A174807", "prj_APERFUME_A174807.vbproj", "{8AB3315F-5B01-410B-8146-074A638C496A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{53B8297F-9AEE-4E27-A303-DF3EB3763C94}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_A174807_APerfume", "..\Setup_A174807_APerfume\Setup_A174807_APerfume.vdproj", "{0601883D-7025-4F1A-A0E5-6DCAF3A08C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB3315F-5B01-410B-8146-074A638C496A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB3315F-5B01-410B-8146-074A638C496A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB3315F-5B01-410B-8146-074A638C496A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB3315F-5B01-410B-8146-074A638C496A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0601883D-7025-4F1A-A0E5-6DCAF3A08C4E}.Debug|Any CPU.ActiveCfg = Debug
+		{0601883D-7025-4F1A-A0E5-6DCAF3A08C4E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {062C3B71-534C-4C94-ABD0-69C4AADB0DF9}
+	EndGlobalSection
+EndGlobal

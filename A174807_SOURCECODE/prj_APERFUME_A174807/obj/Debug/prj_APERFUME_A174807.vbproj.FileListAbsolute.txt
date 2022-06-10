@@ -1,0 +1,281 @@
+C:\Users\User\source\repos\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\source\repos\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\source\repos\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\source\repos\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orders_a174807.resources
+C:\Users\User\source\repos\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orders_a174807.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Downloads\Studies\DATABASE\Assingment2\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orders_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orders_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(2 TASK1 ALL DONE)\prj_APERFUME_A174807\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orders_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orders_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\LATEST\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_deleteCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_deleteCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orders_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_Insert_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_Update_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_Delete_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertStaff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateStaff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_deleteStaff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_deleteCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_deleteStaff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_Delete_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertStaff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_Insert_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orders_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateCustomer_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateStaff_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_Update_a174807.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\ASSIGNMENTS2 Database\ASSIGNMENTS2 Database\prj_APERFUME_A174807(6)\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_deleteCustomer_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_deleteStaff_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_Delete_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertCustomer_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertProducts_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertStaff_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orders_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateCustomer_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateStaff_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_Update_a174807.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\Fatin\Downloads\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_insertCustomer_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_insertProducts_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_insertStaff_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_splashscreen_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_updateCustomer_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_updateProduct_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.frm_updateStaff_a174807.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Downloads\Compressed\prj_APERFUME_A174807(Atenz)\prj_APERFUME_A174807(Atenz)\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertCustomer_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertProducts_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertStaff_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_makeOrder_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_splashscreen_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateCustomer_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateProduct_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateStaff_a174807.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+C:\Users\User\Documents\Assg 3 Database\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbprojAssemblyReference.cache
+D:\ASSG DATABASE\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe.config
+D:\ASSG DATABASE\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.exe
+D:\ASSG DATABASE\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.pdb
+D:\ASSG DATABASE\prj_APERFUME_A174807\bin\Debug\prj_APERFUME_A174807.xml
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_catalogue_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_customer_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertCustomer_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertProducts_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_insertStaff_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_mainmenu_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_makeOrder_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_orderslist_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_products_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_receipts_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_splashscreen_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_staff_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateCustomer_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateProduct_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_updateStaff_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.Resources.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.GenerateResource.cache
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.vbproj.CoreCompileInputs.cache
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.exe
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.xml
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.pdb
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_invoices_a174807.resources
+D:\ASSG DATABASE\prj_APERFUME_A174807\obj\Debug\prj_APERFUME_A174807.frm_invoice_a174807.resources
